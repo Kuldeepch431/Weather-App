@@ -22,6 +22,9 @@ HTML/CSS: Basic HTML and CSS for structuring and styling the web pages.
 
 # Project Structure
 index.jsp: The main page where users can enter the city name and see the weather results.
+
 MyServlet.java: The servlet that processes the request, interacts with the OpenWeather API, and sends the response back to the JSP page.
+
 web.xml: Configuration file for the web application, defining servlet mappings and welcome files.
+
 index.html : It is used for giving the look of the project.
